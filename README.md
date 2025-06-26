@@ -1,8 +1,8 @@
 ## Opa meu nome é Pedro Nogueira e sou Desenvolvedor Front-End!
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroH-Nogueira&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroH-Nogueira&show_icons=true&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=highcontrast"/>
 </div>
 
 <div style="display: inline_block"><br>
